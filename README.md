@@ -1,2 +1,3 @@
 # miscellaneous
-Some cool questions and answers.
+Some cool questions and answers
+COOL
